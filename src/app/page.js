@@ -175,10 +175,10 @@ export default function Home() {
         </section>
 
         <section id="contact" className="my-8">
-          <h2 className="text-3xl font-semibold text-blue-800 dark:text-yellow-400">
+          <h2 className="text-3xl  font-semibold text-blue-800 dark:text-yellow-400">
             Contact Me
           </h2>
-          <p className="mt-4 text-lg text-black dark:text-white">
+          <p className="mt-3 text-lg text-black dark:text-white">
             Email:{" "}
             <a
               href="mailto:fauzimalik08@gmail.com"
