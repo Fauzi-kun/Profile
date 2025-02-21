@@ -127,7 +127,7 @@ export default function Home() {
                 Universitas Jenderal Soedirman
               </p>
               <span className="text-sm text-gray-500 dark:text-gray-400">
-                2024 - Sekarang
+                2024 - Present
               </span>
             </div>
           </div>
