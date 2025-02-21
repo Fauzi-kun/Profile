@@ -49,9 +49,7 @@ export default function Home() {
               6 bulan. Saya sudah terbiasa menggunakan teknologi seperti React,
               Vue, Next.js, Laravel, dan Express.js untuk membangun aplikasi
               modern. Saya menikmati tantangan dalam menyelesaikan masalah yang
-              rumit dan selalu tertarik untuk belajar teknologi baru. Di luar
-              coding, saya menghabiskan waktu dengan bermain game untuk melepas
-              penat dan menemukan inspirasi.
+              rumit dan selalu tertarik untuk belajar teknologi baru.
             </p>
           </div>
         </section>
@@ -88,9 +86,9 @@ export default function Home() {
               <h3 className="text-2xl font-bold dark:text-white">
                 Fullstack Developer Bootcamp
               </h3>
-              <p className="text-gray-700 dark:text-gray-300">Tech Company A</p>
+              <p className="text-gray-700 dark:text-gray-300">HariSenin.com</p>
               <span className="text-sm text-gray-500 dark:text-gray-400">
-                Jan 2023 - Present
+                Aug 2024 - Present
               </span>
               <ul className="list-disc pl-5 mt-2 text-gray-700 dark:text-gray-300">
                 <li>
