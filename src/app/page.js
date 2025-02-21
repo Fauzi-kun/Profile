@@ -81,12 +81,12 @@ export default function Home() {
 
         <section id="experience" className="my-8">
           <h2 className="text-3xl font-semibold text-blue-800 dark:text-yellow-400">
-            Work Experience
+            Experience
           </h2>
           <div className="mt-6 border-l-2 border-blue-800 dark:border-yellow-400 pl-4">
             <div className="relative mb-8">
               <h3 className="text-2xl font-bold dark:text-white">
-                Frontend Developer
+                Fullstack Developer Bootcamp
               </h3>
               <p className="text-gray-700 dark:text-gray-300">Tech Company A</p>
               <span className="text-sm text-gray-500 dark:text-gray-400">
@@ -98,24 +98,6 @@ export default function Home() {
                 </li>
                 <li>Optimasi kinerja halaman dengan SSR di Next.js.</li>
                 <li>Berkolaborasi dengan tim backend untuk integrasi API.</li>
-              </ul>
-            </div>
-
-            <div className="relative mb-8">
-              <h3 className="text-2xl font-bold dark:text-white">
-                Web Developer Intern
-              </h3>
-              <p className="text-gray-700 dark:text-gray-300">Startup B</p>
-              <span className="text-sm text-gray-500 dark:text-gray-400">
-                Jul 2022 - Dec 2022
-              </span>
-              <ul className="list-disc pl-5 mt-2 text-gray-700 dark:text-gray-300">
-                <li>
-                  Mengembangkan fitur e-commerce sederhana menggunakan Laravel
-                  dan Vue.js.
-                </li>
-                <li>Melakukan debugging dan testing UI/UX.</li>
-                <li>Meningkatkan kecepatan load halaman hingga 30%.</li>
               </ul>
             </div>
           </div>
@@ -131,44 +113,20 @@ export default function Home() {
               <h3 className="text-2xl font-bold dark:text-white">
                 High School Graduate
               </h3>
-              <p className="text-gray-700 dark:text-gray-300">
-                ABC High School
-              </p>
+              <p className="text-gray-700 dark:text-gray-300">SMKN 2 Banjar</p>
               <span className="text-sm text-gray-500 dark:text-gray-400">
-                2015 - 2018
+                2019 - 2022
               </span>
             </div>
 
             {/* Kuliah */}
             <div className="relative mb-10">
               <h3 className="text-2xl font-bold dark:text-white">
-                Bachelor's Degree in Computer Science
+                S1 Teknik Elektro Universitas Jenderal Soedirman
               </h3>
               <p className="text-gray-700 dark:text-gray-300">XYZ University</p>
               <span className="text-sm text-gray-500 dark:text-gray-400">
-                2018 - 2022
-              </span>
-            </div>
-
-            {/* Internship */}
-            <div className="relative mb-10">
-              <h3 className="text-2xl font-bold dark:text-white">
-                Web Developer Intern
-              </h3>
-              <p className="text-gray-700 dark:text-gray-300">Startup B</p>
-              <span className="text-sm text-gray-500 dark:text-gray-400">
-                Jul 2022 - Dec 2022
-              </span>
-            </div>
-
-            {/* Pekerjaan */}
-            <div className="relative mb-10">
-              <h3 className="text-2xl font-bold dark:text-white">
-                Frontend Developer
-              </h3>
-              <p className="text-gray-700 dark:text-gray-300">Tech Company A</p>
-              <span className="text-sm text-gray-500 dark:text-gray-400">
-                Jan 2023 - Present
+                2024 - Sekarang
               </span>
             </div>
           </div>
