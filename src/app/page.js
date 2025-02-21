@@ -96,6 +96,7 @@ export default function Home() {
                 <li>
                   Membangun UI interaktif menggunakan React dan Tailwind CSS.
                 </li>
+                <li>Mengolah backend menggunakan Express Js</li>
                 <li>Optimasi kinerja halaman dengan SSR di Next.js.</li>
                 <li>Berkolaborasi dengan tim backend untuk integrasi API.</li>
               </ul>
@@ -122,9 +123,11 @@ export default function Home() {
             {/* Kuliah */}
             <div className="relative mb-10">
               <h3 className="text-2xl font-bold dark:text-white">
-                S1 Teknik Elektro Universitas Jenderal Soedirman
+                S1 Teknik Elektro
               </h3>
-              <p className="text-gray-700 dark:text-gray-300">XYZ University</p>
+              <p className="text-gray-700 dark:text-gray-300">
+                Universitas Jenderal Soedirman
+              </p>
               <span className="text-sm text-gray-500 dark:text-gray-400">
                 2024 - Sekarang
               </span>
